@@ -8,3 +8,5 @@ Also, has an admin panel for better control of the database and users.
 - Import the database in your choice of Database Tools.
 - The database file is located in db/project.sql.
 - We have used the phpmyadmin for creating and storing of my database.
+
+Thank You.
